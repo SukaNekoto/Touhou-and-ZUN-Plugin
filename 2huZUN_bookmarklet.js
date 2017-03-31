@@ -2,7 +2,7 @@ javascript:(function(){
 
 //Touhou and ZUN Day Message
 var $touhouCalendar = document.createElement("span");
-$touhouCalendar.append("Mischievous Fairies Day, April 1");
+$touhouCalendar.append("Today's Mischievous Fairies Day!");
 document.getElementsByClassName("player_header")[0].appendChild($touhouCalendar);
 
 
