@@ -2,7 +2,7 @@ javascript:(function(){
 
 //Touhou and ZUN Day Message
 var $touhouCalendar = document.createElement("span");
-$touhouCalendar.append("Today's Orange Day!");
+$touhouCalendar.append("Today's Nazrin Day!");
 document.getElementsByClassName("player_header")[0].appendChild($touhouCalendar);
 
 
